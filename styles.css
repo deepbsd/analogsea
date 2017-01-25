@@ -1,0 +1,58 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #66a3ff;
+}
+div.logo img {
+	display: block;
+	margin: auto;
+	width: 140px;
+	height: 35px;
+
+}
+h1 {
+	text-align: center;
+}
+fieldset {
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: white;
+}
+label {
+	margin-left: 20px;
+	font-size: 20px;
+}
+input {
+	font-size: 20px;
+	font-style: bold;
+	color: gray;
+}
+input, button {
+	border-radius: 3px;
+	margin: 20px;
+	height: 38px;
+	padding: 15px;
+	width: 320px;
+	border: 1px lightgray solid;
+}
+button.button {
+	line-height: 8px;
+	font-size: 20px;
+	line-height: 20px
+	padding: 20px 0;
+	margin-left: 40px;
+	color: white;
+	background-color: green;
+}
+button.button:hover {
+	background-color: darkgreen;
+}
+h4 {
+	text-align: center;
+}
+h6 {
+	text-align: center;
+}
